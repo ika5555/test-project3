@@ -1,1 +1,2 @@
 adding file4
+fixed bug in file4
